@@ -403,7 +403,6 @@ img {
 
 .footer-container {
   display: flex;
-  gap: 120px;
   align-items: baseline;
 }
 
@@ -437,7 +436,7 @@ img {
 }
 
 .footer-social-list {
-  gap: 24px;
+  gap: 16px;
 }
 
 .footer-social-link:hover,
