@@ -320,7 +320,6 @@ img {
 }
 
 .team-item {
-  padding-bottom: 32px;
   width: calc((100% - 72px) / 4);
   border-radius: 0 0 4px 4px;
   background-color: #fff;
@@ -428,12 +427,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-
-.footer-social-wrapper {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
 }
 
 .footer-title {
